@@ -1,1 +1,9 @@
-# Created by .ignore support plugin (hsz.mobi)
+### NodeProject template
+### Node.JS project template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+node_modules
